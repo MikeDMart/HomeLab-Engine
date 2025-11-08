@@ -44,7 +44,7 @@
 ## 📊 Instrumentos Cubiertos
 
 ### 🏢 Acciones por Sector
-```python
+
 sectores = {
     'Tecnología': ['AAPL', 'MSFT', 'GOOGL', 'NVDA', 'META', 'AMD', 'INTC'],
     'Finanzas': ['JPM', 'V', 'MA', 'BAC', 'GS', 'MS'],
@@ -53,16 +53,19 @@ sectores = {
     'Energía': ['XOM', 'CVX', 'COP', 'SLB', 'EOG'],
     'Industrial': ['BA', 'CAT', 'GE', 'HON', 'UPS']
 }
+
 📈 Índices & ETFs
-python
+
 indices = ['^GSPC', '^DJI', '^IXIC', '^RUT', '^VIX']
 etfs = ['SPY', 'QQQ', 'IWM', 'GLD', 'SLV', 'TLT']
 ₿ Criptomonedas
 python
 cripto = ['BTC-USD', 'ETH-USD', 'BNB-USD', 'XRP-USD', 'SOL-USD', 'ADA-USD']
+
+
 🛠️ Instalación Rápida
 Google Colab (Recomendado)
-python
+
 # Copia y pega este código en una celda de Colab
 !git clone https://github.com/MikeDMart/HomeLab-Engine.git
 %cd HomeLab-Engine/yfinance-api
@@ -170,6 +173,8 @@ json
     }
   }
 }
+
+
 🎨 Visualización de Datos
 El extractor incluye análisis visual automático:
 
