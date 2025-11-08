@@ -17,6 +17,9 @@
 
 ### 🔥 **Soluciones Activas**
 
+ARREGLAR ESTA PARTE ****************
+
+
 | Categoría | Módulo | Estado | Descripción |
 |-----------|--------|--------|-------------|
 | **📈 Trading & Finance** | [`yfinance-api/`](yfinance-api/) | ✅ **Production** | Extractor masivo de datos de mercado |
